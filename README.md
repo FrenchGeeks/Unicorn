@@ -17,10 +17,8 @@ Unicorn
 <br /><br />
 
 <div align="center">
-  Build your app: "php unicorn.phar build:app APP_NAME" ...
-  
-  ... then...
-
+  Build your app: "php unicorn.phar build:app APP_NAME" ... <br />
+  ... then... <br />
   ...code :)
 </div>
 
