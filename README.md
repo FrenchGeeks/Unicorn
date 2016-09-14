@@ -14,7 +14,7 @@ Unicorn
   <b>Super lightweight PHP Framework...</b>
 </div>
 
-<br /><br />
+<br />
 
 <div align="center">
   As simple as: <br /><br />
