@@ -1,6 +1,6 @@
 
 <div align="center">
-  <b size="40">Unicorn</b>
+  <b style="font-size: 40px !important">Unicorn</b>
 </div>
 
 Pouet Pouet. Unicorn exists... Perhaps...
