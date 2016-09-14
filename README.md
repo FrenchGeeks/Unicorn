@@ -6,7 +6,7 @@ Super lightweight PHP Framework...
 Build your app: "php unicorn.phar build:app APP_NAME" ...
 ... then... code :)
 
-![alt tag](http://images.clipartpanda.com/cute-unicorn-clipart-unicorn4.png)
+![alt tag](https://cloud.githubusercontent.com/assets/22191431/18515627/44f0d808-7a96-11e6-8aa0-a9cde9183b92.png)
 
 # Main features
 - MVC-based framework
